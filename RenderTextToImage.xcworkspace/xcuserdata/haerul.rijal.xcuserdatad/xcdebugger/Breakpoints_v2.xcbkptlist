@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6FD62E35-6D17-4290-8272-B4C5C806E2F3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04587A9E-6EC0-45A3-B540-C4026089373C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RenderTextToImage/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "applyTextOnImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4ACA580F-30EC-4A95-839E-1970931F1977"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RenderTextToImage/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "saveToDisk()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89DED798-46D8-42C9-A58A-65925F5C6073"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RenderTextToImage/TextRenderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "createImageText(text:configuration:rect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABB8EA6-7954-4D2C-8695-98D65114521E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RenderTextToImage/TextRenderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "createImageText(text:configuration:rect:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EABB8EA6-7954-4D2C-8695-98D65114521E - 447ed19f6305b371"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RenderTextToImage.TextRenderer.createImageText(text: Swift.String, configuration: RenderTextToImage.TextRenderer.TextImageType, rect: __C.CGRect) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "RenderTextToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haerul.rijal/Developer/RenderTextToImage/RenderTextToImage/TextRenderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "3578">
+               </Location>
+               <Location
+                  uuid = "EABB8EA6-7954-4D2C-8695-98D65114521E - 447ed19f6305b371"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RenderTextToImage.TextRenderer.createImageText(text: Swift.String, configuration: RenderTextToImage.TextRenderer.TextImageType, rect: __C.CGRect) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "RenderTextToImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haerul.rijal/Developer/RenderTextToImage/RenderTextToImage/TextRenderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "3714">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
